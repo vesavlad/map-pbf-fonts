@@ -1,0 +1,15 @@
+{
+  "name": "map-pbf-fonts",
+  "version": "1.0.0",
+  "description": "pbf fonts used for generating map vector tiles",
+  "main": "index.js",
+  "repository": "git@github.com:vesavlad/map-pbf-fonts.git",
+  "author": "Vlad Vesa <hello@vladvesa.ro>",
+  "license": "MIT",
+  "scripts": {
+    "generate": "./generate.sh"
+  },
+  "dependencies": {
+    "genfontgl": "^0.3.1"
+  }
+}
